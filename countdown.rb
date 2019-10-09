@@ -1,8 +1,8 @@
 #write your code here
-count_down = 10 
-while count_down > 0 
+countdown = 10 
+while countdown > 0 
 puts "#{x} SECOND(S)!"
-count_down -= 1
+countdown -= 1
 
 def countdown
 end
